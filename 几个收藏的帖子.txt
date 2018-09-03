@@ -1,0 +1,2 @@
+1	分布式事务和异步事务的处理
+	https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html
