@@ -5,3 +5,11 @@
 2	hsweb3-demo 是一个企业级后台框架 已经有了详细的功能
 	
 	https://github.com/hs-web/hsweb3-demo.git
+	
+3 	vhr 微人事 spring boot security vue
+ 
+	https://github.com/lenve/vhr.git
+	
+4 	vbolg 微部落  spring boot security vue
+
+	
